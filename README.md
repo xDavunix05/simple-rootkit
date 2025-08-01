@@ -31,4 +31,3 @@ sudo rmmod rootkit
 - make tool
 - git (optional)
 
-  ![Uploading image.png…]()
